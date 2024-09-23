@@ -1,0 +1,26 @@
+body{
+    width: 100%;
+}
+.imperio{
+    background-color: #DB0F00;
+    
+}
+.rebeldes{
+    background-color: #1735CF;
+}
+#darthVader{
+font-size: 50px;
+}
+#luke{
+    font-style: italic;
+}
+.bordes {
+    border-bottom: 5px solid black;
+    letter-spacing: 5px;
+}
+.centrar{
+    text-align: center;
+}
+.mayuscula{
+    text-transform: uppercase;
+}
